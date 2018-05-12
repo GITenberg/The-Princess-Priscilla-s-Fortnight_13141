@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/603
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13141#The-Princess-Priscilla-s-Fortnight
 gutenberg_issued: '2004-08-08'
 gutenberg_type: Text
 identifiers:
